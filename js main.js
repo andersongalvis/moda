@@ -1,0 +1,1 @@
+let cerar = document.querySelectorAll("close")
